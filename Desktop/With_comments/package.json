@@ -1,0 +1,26 @@
+{
+  "name": "kasia",
+  "version": "1.0.0",
+  "description": "zadanie_8_3",
+  "main": "css images js index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bookami/JS.git"
+  },
+  "keywords": [
+    "jshint"
+  ],
+  "author": "Bookami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bookami/JS/issues"
+  },
+  "homepage": "https://github.com/Bookami/JS#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
